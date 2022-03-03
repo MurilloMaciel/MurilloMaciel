@@ -7,7 +7,6 @@ I had studied and worked with firmware using C and assembly before I discovered 
 
 - 🏢 I'm currently working at iFood as Senior Android Software Engineer.
 - 🔭 I’m also currently working on an open source app called MuTalk that compiles all that I think is the best for Android Development (this project is stopped for some time, because of next topic).
-- 🌱 I'm focusing my attention on soft skills right now. My career planning to become a Staff Android Engineer are involving some leadership and mentoring polishing.
 - 🌱 I’m adapting myself and learning Jetpack Compose, and I'm also reading Clean Architecture and Clean Code.
 - 🌍 Languages: Portuguese(Native) and English(Advanced).
 - 💬 Ask me about firmware and stuff, because I still think is interesting (Even nowadays, when I can't do malloc anymore kkk).
