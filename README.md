@@ -2,7 +2,7 @@
 
 ### My name is Murillo Maciel, I'm 28 years old, I'm married and father of dogs.
 
-Although I have been studying algorithms and software development since I was 17 years old, I started to study Android development 6 years ago and flutter 2 years ago. 
+Although I have been studying algorithms and software development since I was 17 years old, I started to study Android development 6 years ago and I have around 2 years in Flutter as well. 
 I had studied and worked with firmware using C and assembly before I discovered Mobile development. Now I'm passionate for mobile and can't see me doing anything else.
 
 - 🏢 I'm a Senior Android Software Engineer at iFood, the biggest food delivery company in Brazil.
